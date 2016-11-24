@@ -24,3 +24,4 @@ Here's a [demo](https://nmutsanas.github.io/weyl-trees/)
 
 ## Credits
 [Prof. Michel Dekking](http://dutiosc.twi.tudelft.nl/~dekking/) kindly provided information about his work on the subject.
+
